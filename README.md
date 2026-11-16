@@ -1,6 +1,6 @@
 ### Hi, I'm Joe
 
-**Getting people to actually use new technology — now with AI.**
+**Getting people to actually use new technology. Now with AI.**
 
 My day job is helping people adopt new tools. I've worked with Cisco as a contractor since 2019 and am currently on its Gong rollout. Before that I spent seven years at Cerner. This page is where I learn by building.
 
